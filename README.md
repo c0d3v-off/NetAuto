@@ -3,14 +3,14 @@
 
 
 
-'It is a mix of network automation scripts and password crackera , reverse shells generators created with python 3 .'
+`It is a mix of network automation scripts and password crackera , reverse shells generators created with python 3 .`
 
 # Prerequist
-'
+`
 - Python3 >= 3.6
 - Ubuntu Or Debian Base Distros
 - Tkinter Installed 
-'
+`
 
 # Installition 
  ```
@@ -22,4 +22,4 @@
 4- sudo python3 setup.py
 ```
 "-------------------------------------"
-'Note : Run The Script With sudo premission .'
+`Note : Run The Script With sudo premission .`
