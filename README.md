@@ -13,11 +13,11 @@
 # Installition 
  ```
 1- Clone The Repo 
-2- cd NetAuto
-3- python3 -m pip install -r requirements.txt
-4- sudo python3 netauto.py
+2- $ cd NetAuto
+3- $ python3 -m pip install -r requirements.txt
+4- $ sudo python3 netauto.py
 [Optional]
-4- sudo python3 setup.py
+4- $ sudo python3 setup.py
 ```
-"-------------------------------------"
+`-----------------------------------------------`
 `Note : Run The Script With sudo premission .`
