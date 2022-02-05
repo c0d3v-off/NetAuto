@@ -19,5 +19,5 @@
 [Optional]
 4- $ sudo python3 setup.py
 ```
-`-----------------------------------------------`
+
 `Note : Run The Script With sudo premission .`
