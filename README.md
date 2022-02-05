@@ -5,12 +5,10 @@
 
 `It is a mix of network automation scripts and password crackera , reverse shells generators created with python 3 .`
 
-# Prerequist
-`
+# Requirements Before Running
 - Python3 >= 3.6
 - Ubuntu Or Debian Base Distros
 - Tkinter Installed 
-`
 
 # Installition 
  ```
